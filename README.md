@@ -21,7 +21,7 @@ The data used in this dashboard was imported directly from an Excel file named `
 
 ## 📂 Data Source
 
-- **File Name**: `LinkedIn Posts.xlsx`
+- **File Name**: `linkedIn_Data.xlsx`
 - **Import Method**: Directly imported into Tableau Public
 - **Contents**: Post reactions, engagement rates, views, reposts, followers, topics, and descriptions
 
