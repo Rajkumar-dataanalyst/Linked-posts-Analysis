@@ -33,7 +33,7 @@ The data used in this dashboard was imported directly from an Excel file named `
 
 ### 📍 Page 1: Reactions & Engagement Rate (ER) Overview
 
-![Reactions and ER Overview](./17ced408-eda6-4614-aa8b-105cae2c3283.png)
+![Reactions and ER Overview](https://github.com/Rajkumar-dataanalyst/Linked-posts-Analysis/blob/main/dashboard_1st-page.png?raw=true)
 
 #### 🔎 Visuals Included:
 
