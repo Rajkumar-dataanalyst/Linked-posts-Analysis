@@ -7,7 +7,7 @@ This project showcases a **LinkedIn Post Analysis Dashboard** created using **Ta
 1. **Reactions & Engagement Rate (ER) Overview**
 2. **Views & Followers Overview**
 
-The data used in this dashboard was imported directly from an Excel file named `LinkedIn Posts.xlsx`.
+The data used in this dashboard was imported directly from an Excel file named `linkedIn_Data.xlsx`.
 
 ---
 
