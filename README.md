@@ -48,7 +48,7 @@ The data used in this dashboard was imported directly from an Excel file named `
 
 ### 📍 Page 2: Views & Followers Overview
 
-![Views and Followers Overview](./Screenshot%202025-05-29%20181917.png)
+![Views and Followers Overview](https://github.com/Rajkumar-dataanalyst/Linked-posts-Analysis/blob/main/dashboard_2nd-page.png?raw=true)
 
 #### 🔎 Visuals Included:
 
